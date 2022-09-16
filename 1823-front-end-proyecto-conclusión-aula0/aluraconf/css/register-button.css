@@ -1,0 +1,28 @@
+.register__button{
+  
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #48A3A6;
+    padding: 1.5rem 2.5rem;
+    margin-bottom: 2rem;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 880px) {
+    .register__button {
+        font-size: 0.8rem;
+        padding: 1.2rem 2rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .register__button {
+        font-size: 0.5rem;
+        padding: 0.8rem 1.5rem;
+        margin-bottom: 1rem;
+    }
+}

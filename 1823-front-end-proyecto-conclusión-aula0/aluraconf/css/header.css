@@ -1,0 +1,7 @@
+.header{
+    background: url(../img/portada.jpg) no-repeat;
+    background-size: cover;
+    padding-top: 0.5rem;
+    opacity: 0.85;
+    padding-bottom: 2rem;
+}

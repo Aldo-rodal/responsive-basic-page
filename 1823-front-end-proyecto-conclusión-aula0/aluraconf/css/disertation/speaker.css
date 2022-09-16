@@ -1,0 +1,8 @@
+.speaker{
+    display: inline-block;
+    width: 200px;
+    margin: 1rem 8px;
+    background: white;
+    vertical-align: top;
+    border-radius: 10px;
+}

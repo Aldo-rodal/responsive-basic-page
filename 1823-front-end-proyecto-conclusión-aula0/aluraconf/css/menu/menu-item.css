@@ -1,0 +1,22 @@
+.menu__item{
+    display: inline-block;
+    margin-right: 0.08rem;
+    margin-bottom: 1.13rem;
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 880px) {
+    .menu__item {
+        margin-right: 0.06rem;
+        margin-bottom: 0.88rem;
+        margin-top: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .menu__item {
+        margin-right: 0.04rem;
+        margin-bottom: 0.61rem;
+        margin-top: 0.5rem;
+    }
+}

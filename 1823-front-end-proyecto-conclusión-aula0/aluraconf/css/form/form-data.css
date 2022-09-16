@@ -1,0 +1,11 @@
+.form__data{
+    margin-top: 0.8rem;
+}
+
+.form__data input{
+    width: 90%;
+    border-radius: 5px;
+    padding: 0.2rem;
+    margin-bottom: 0.5rem;
+    box-shadow: 2px 2px 10px #48A3A6;
+}

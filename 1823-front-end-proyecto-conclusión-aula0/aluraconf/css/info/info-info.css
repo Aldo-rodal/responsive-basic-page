@@ -1,0 +1,26 @@
+.info__info{
+    width: 80%;
+}
+
+.info__info:first-child{
+    margin-top: 0;
+}
+
+.info__info:last-child{
+    line-height: 1.7rem;
+    margin-bottom: 0;
+}
+
+@media screen and (min-width: 650px) {
+    .info__info {
+        line-height: 1.7rem;
+        margin: 0.5rem 0  0.5rem 10%;
+    }
+}
+
+@media screen and (min-width: 0px) {
+    .info__info {
+        line-height: 1.7rem;
+        margin: 0.3rem 0  0.3rem 10%;
+    }
+}
